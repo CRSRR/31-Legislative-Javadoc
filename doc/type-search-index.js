@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"eclipproj","l":"Bill"},{"p":"eclipproj","l":"Bill.BillStatus"},{"p":"eclipproj","l":"Constituency"},{"p":"eclipproj","l":"Legis"},{"p":"eclipproj","l":"Member"},{"p":"eclipproj","l":"Session"}];updateSearchResults();
